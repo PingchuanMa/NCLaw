@@ -6,7 +6,7 @@ Learning Neural Constitutive Laws from Motion Observations for Generalizable PDE
 
 ICML 2023 / [Website](https://sites.google.com/view/nclaw) / [arXiv](https://arxiv.org/abs/2304.14369)
 
-https://github.com/PingchuanMa/NCLaw/assets/16499005/c783a9da-5987-44e1-ad54-18fd1f7dbf6f
+https://github.com/PingchuanMa/NCLaw/assets/16499005/e1fed91f-da58-4a79-a130-5ccd054091fa
 
 ```
 @inproceedings{ma2023learning,
@@ -88,10 +88,10 @@ python experiments/scripts/eval/melting.py # (b) phase-transition
 
 ## Results
 
-https://github.com/PingchuanMa/NCLaw/assets/16499005/3320df7e-b33f-437c-a16c-1953fe8a0f0a
+https://github.com/PingchuanMa/NCLaw/assets/16499005/4860bce0-8d20-4641-9052-ea7430361bca
 
-https://github.com/PingchuanMa/NCLaw/assets/16499005/0beff801-03a5-4937-bbac-049398ec404a
+https://github.com/PingchuanMa/NCLaw/assets/16499005/7ea44615-564a-4fa1-bfd8-0ce5cfdecc31
 
-https://github.com/PingchuanMa/NCLaw/assets/16499005/c783a9da-5987-44e1-ad54-18fd1f7dbf6f
+https://github.com/PingchuanMa/NCLaw/assets/16499005/e1fed91f-da58-4a79-a130-5ccd054091fa
 
-https://github.com/PingchuanMa/NCLaw/assets/16499005/a543dc2c-f957-4612-86b6-c55a8ca3fc16
+https://github.com/PingchuanMa/NCLaw/assets/16499005/37917f41-522c-4b3b-a845-cb2055b78c92
