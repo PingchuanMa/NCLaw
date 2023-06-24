@@ -1,10 +1,12 @@
 # Neural Constitutive Laws
 
-[![Website](https://img.shields.io/badge/Project%20Page-Open-yellowgreen.svg)](https://sites.google.com/view/nclaw) [![arXiv](https://img.shields.io/badge/arXiv-2304.14369-b31b1b.svg)](https://arxiv.org/abs/2304.14369)
+[![Website](https://img.shields.io/badge/Project%20Page-NCLaw-yellowgreen.svg)](https://sites.google.com/view/nclaw) [![arXiv](https://img.shields.io/badge/arXiv-2304.14369-b31b1b.svg)](https://arxiv.org/abs/2304.14369)
 
 Learning Neural Constitutive Laws from Motion Observations for Generalizable PDE Dynamics
 
 ICML 2023 / [Website](https://sites.google.com/view/nclaw) / [arXiv](https://arxiv.org/abs/2304.14369)
+
+https://github.com/PingchuanMa/NCLaw/assets/16499005/c783a9da-5987-44e1-ad54-18fd1f7dbf6f
 
 ```
 @inproceedings{ma2023learning,
@@ -18,7 +20,7 @@ ICML 2023 / [Website](https://sites.google.com/view/nclaw) / [arXiv](https://arx
 
 ## Prerequisites
 
-This codebase is tested using the enviroment with following key packages:
+This codebase is tested using the environment with the following key packages:
 
 - Ubuntu 20.04
 - CUDA 11.7
@@ -83,3 +85,13 @@ python experiments/scripts/eval/contact.py # (b) collision
 python experiments/scripts/eval/pool.py    # (a) coupled-physics
 python experiments/scripts/eval/melting.py # (b) phase-transition
 ```
+
+## Results
+
+https://github.com/PingchuanMa/NCLaw/assets/16499005/3320df7e-b33f-437c-a16c-1953fe8a0f0a
+
+https://github.com/PingchuanMa/NCLaw/assets/16499005/0beff801-03a5-4937-bbac-049398ec404a
+
+https://github.com/PingchuanMa/NCLaw/assets/16499005/c783a9da-5987-44e1-ad54-18fd1f7dbf6f
+
+https://github.com/PingchuanMa/NCLaw/assets/16499005/a543dc2c-f957-4612-86b6-c55a8ca3fc16
