@@ -1,0 +1,8 @@
+defaults:
+  - drucker_prager
+  - _self_
+
+E: 1e6
+nu: 0.2
+friction_angle: 25.0
+cohesion: 0.0

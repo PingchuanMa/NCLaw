@@ -1,0 +1,4 @@
+defaults:
+  - blob: plasticine
+  - _self_
+

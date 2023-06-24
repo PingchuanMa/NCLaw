@@ -1,0 +1,5 @@
+defaults:
+  - cube
+
+resolution: 32
+mode: random

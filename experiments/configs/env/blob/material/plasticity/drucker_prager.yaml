@@ -1,0 +1,7 @@
+cls: DruckerPragerPlasticity
+E: ???
+nu: ???
+friction_angle: ???
+cohesion: ???
+requires_grad: False
+random: False

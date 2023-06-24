@@ -1,0 +1,7 @@
+defaults:
+  - elasticity: volume_water
+  - plasticity: sigma
+  - _self_
+
+name: water
+ckpt: null

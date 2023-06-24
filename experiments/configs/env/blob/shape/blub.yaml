@@ -1,0 +1,7 @@
+type: mesh
+name: blub
+center: [0.5, 0.5, 0.5]
+size: [0.8, 0.8, 0.8]
+resolution: 80
+mode: sampling
+sort: null

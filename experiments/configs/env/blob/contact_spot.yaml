@@ -1,0 +1,21 @@
+defaults:
+  - jelly
+  - override shape: spot
+  - override vel: still
+  - _self_
+
+name: contact_spot
+rho: 1e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 1
+
+shape:
+  center: [0.75, 0.4, 0.75]
+  size: [0.4, 0.4, 0.4]
+
+vel:
+  lin_vel: [-2.0, 0.0, -2.0]
+
+bsdf_pcd:
+  reflectance:
+    value: [0.058823529411764705, 0.615686274509804, 0.34509803921568627]

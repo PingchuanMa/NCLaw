@@ -1,0 +1,4 @@
+defaults:
+  - blob: spot
+  - _self_
+

@@ -1,0 +1,7 @@
+type: cube
+name: dataset
+center: [0.5, 0.5, 0.5]
+size: [0.5, 0.5, 0.5]
+resolution: 10
+mode: uniform
+sort: null

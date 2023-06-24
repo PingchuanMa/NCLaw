@@ -1,0 +1,4 @@
+type: diffuse
+reflectance:
+  type: rgb
+  value: [0.1254902, 0.04705882, 0.0]

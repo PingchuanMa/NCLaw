@@ -1,0 +1,3 @@
+strategy: student
+start_lambda: 0.05
+end_lambda: 0.2

@@ -1,0 +1,10 @@
+defaults:
+  - water
+  - override shape: spot
+  - override vel: mild
+  - _self_
+
+name: spot
+rho: 1e3
+span: [0, "${sim.num_steps}"]
+clip_bound: ${sim.bound}

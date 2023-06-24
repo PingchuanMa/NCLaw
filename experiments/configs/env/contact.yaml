@@ -1,0 +1,7 @@
+defaults:
+  - blob@bunny: contact_bunny
+  - blob@spot: contact_spot
+  - blob@duck: contact_duck
+  - blob@blub: contact_blub
+  - _self_
+

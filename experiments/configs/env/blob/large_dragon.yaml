@@ -1,0 +1,10 @@
+defaults:
+  - water
+  - override shape: dragon
+  - override vel: mild
+  - _self_
+
+name: large_dragon
+rho: 1e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 0

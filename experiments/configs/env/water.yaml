@@ -1,0 +1,4 @@
+defaults:
+  - blob: water
+  - _self_
+

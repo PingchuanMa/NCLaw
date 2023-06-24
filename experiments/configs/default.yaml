@@ -1,0 +1,24 @@
+defaults:
+  - env: null
+  - render: null
+  - optional render/special: ${env}
+  - sim: null
+  - optional sim/special: ${env}
+  - train: null
+  - _self_
+  - override hydra/job_logging: disabled
+  - override hydra/hydra_logging: disabled
+
+hydra:
+  output_subdir: null
+  run:
+    dir: .
+
+name: ???
+
+seed: 0
+cpu: 0
+num_cpus: 128
+gpu: 0
+overwrite: False
+resume: False

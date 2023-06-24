@@ -1,0 +1,10 @@
+defaults:
+  - jelly
+  - override shape: armadillo
+  - override vel: mild
+  - _self_
+
+name: armadillo
+rho: 1e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 1

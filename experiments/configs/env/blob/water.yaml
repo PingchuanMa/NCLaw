@@ -1,0 +1,11 @@
+defaults:
+  - bsdf_pcd: water
+  - material: water
+  - shape: cube
+  - vel: preset
+  - _self_
+
+name: water
+rho: 1e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 0.5

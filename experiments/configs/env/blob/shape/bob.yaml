@@ -1,0 +1,7 @@
+type: mesh
+name: bob
+center: [0.5, 0.5, 0.5]
+size: [0.8, 0.8, 0.8]
+resolution: 64
+mode: texture
+sort: null

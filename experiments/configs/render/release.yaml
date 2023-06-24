@@ -1,0 +1,10 @@
+spp: 512
+width: 512
+height: 512
+skip_frame: 25
+bound: 0.5
+mpm_mul: 6
+sph_version: cuda_ad_rgb
+pcd_version: scalar_rgb
+has_sphere_emitter: true
+fps: 10

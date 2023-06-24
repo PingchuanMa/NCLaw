@@ -1,0 +1,11 @@
+defaults:
+  - bsdf_pcd: jelly
+  - material: jelly
+  - shape: cube
+  - vel: preset
+  - _self_
+
+name: jelly
+rho: 1e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 0.5

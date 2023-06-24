@@ -1,0 +1,3 @@
+defaults:
+  - blob: slope_water
+  - _self_

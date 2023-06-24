@@ -1,0 +1,10 @@
+defaults:
+  - meta
+  - _self_
+
+cls: SVDMetaElasticity
+layer_widths: [6, 6]
+norm: null
+nonlinearity: elu
+no_bias: False
+normalize_input: True

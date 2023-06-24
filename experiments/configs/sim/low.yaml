@@ -1,0 +1,9 @@
+quality: low
+num_steps: 1000
+gravity: [0.0, -9.8, 0.0]
+bc: freeslip
+num_grids: 20
+dt: 5e-4
+bound: 3
+eps: 1e-7
+skip_frame: 1

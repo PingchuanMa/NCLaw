@@ -1,0 +1,14 @@
+defaults:
+  - bsdf_pcd: water
+  - material: water
+  - shape: dragon30
+  - vel: slope
+  - _self_
+
+shape:
+  center: [0.5, 0.075, 0.3]
+
+name: slope_water
+rho: 5e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 3

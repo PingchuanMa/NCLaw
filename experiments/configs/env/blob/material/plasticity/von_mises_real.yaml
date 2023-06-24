@@ -1,0 +1,7 @@
+defaults:
+  - von_mises
+  - _self_
+
+E: 1e4
+nu: 0.25
+sigma_y: 1e3

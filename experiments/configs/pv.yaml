@@ -1,0 +1,9 @@
+defaults:
+  - default
+  - override env: jelly
+  - override render: debug
+  - override sim: low
+  - override train: default
+  - _self_
+
+dataset: false

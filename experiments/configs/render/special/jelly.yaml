@@ -1,0 +1,5 @@
+# @package _global_
+
+render:
+  bound: 1.75
+  pcd_version: cuda_ad_rgb

@@ -1,0 +1,16 @@
+defaults:
+  - jelly
+  - override bsdf_pcd: duck
+  - override shape: bob
+  - override vel: still
+  - _self_
+
+shape:
+  center: [0.5, 0.6, 0.5]
+  size: [0.6, 0.6, 0.6]
+  resolution: 32
+
+name: cover_duck
+rho: 1e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 1

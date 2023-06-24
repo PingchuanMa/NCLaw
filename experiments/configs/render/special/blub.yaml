@@ -1,0 +1,6 @@
+# @package _global_
+
+render:
+  bound: ${sim.bound}
+  sph_version: scalar_rgb
+  pcd_version: scalar_rgb

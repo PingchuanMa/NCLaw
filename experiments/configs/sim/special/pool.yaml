@@ -1,0 +1,5 @@
+# @package _global_
+
+sim:
+  num_grids: 64
+  num_steps: 3000

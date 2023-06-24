@@ -1,0 +1,7 @@
+type: mesh
+name: icecream
+center: [0.5, 0.2, 0.5]
+size: [0.8, 0.8, 0.8]
+resolution: 50
+mode: sampling
+sort: 1

@@ -1,0 +1,12 @@
+defaults:
+  - bsdf_pcd: icecream
+  - material@material0: plasticine
+  - material@material1: sand
+  - shape: icecream
+  - vel: still
+  - _self_
+
+name: melting_icecream
+rho: 1e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 1

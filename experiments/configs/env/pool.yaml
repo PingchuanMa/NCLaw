@@ -1,0 +1,5 @@
+defaults:
+  - blob@duck: pool_duck
+  - blob@water: pool_water
+  - _self_
+

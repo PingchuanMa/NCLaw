@@ -1,0 +1,7 @@
+type: mesh
+name: bunny
+center: [0.5, 0.5, 0.5]
+size: [0.7, 0.7, 0.7]
+resolution: 50
+mode: sampling
+sort: null

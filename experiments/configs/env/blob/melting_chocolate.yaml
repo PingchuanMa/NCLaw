@@ -1,0 +1,12 @@
+defaults:
+  - bsdf_pcd: chocolate
+  - material@material0: plasticine
+  - material@material1: sand
+  - shape: chocolate
+  - vel: still
+  - _self_
+
+name: melting_chocolate
+rho: 2e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 1

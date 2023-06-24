@@ -1,0 +1,5 @@
+defaults:
+  - meta
+  - _self_
+
+cls: InvariantMetaElasticity

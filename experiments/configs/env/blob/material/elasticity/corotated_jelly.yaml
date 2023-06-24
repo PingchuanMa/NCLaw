@@ -1,0 +1,6 @@
+defaults:
+  - corotated
+  - _self_
+
+E: 1e5
+nu: 0.2

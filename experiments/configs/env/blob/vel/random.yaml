@@ -1,0 +1,4 @@
+random: True
+seed: 0
+lin_vel_bound: [0.0, 3.0]
+ang_vel_bound: [0.0, 3.0]

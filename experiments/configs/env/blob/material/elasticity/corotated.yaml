@@ -1,0 +1,5 @@
+cls: CorotatedElasticity
+E: ???
+nu: ???
+requires_grad: False
+random: False

@@ -1,0 +1,7 @@
+type: mesh
+name: armadillo
+center: [0.5, 0.5, 0.5]
+size: [0.7, 0.7, 0.7]
+resolution: 72
+mode: sampling
+sort: null

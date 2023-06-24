@@ -1,0 +1,7 @@
+defaults:
+  - elasticity: sigma_plasticine
+  - plasticity: von_mises_plasticine
+  - _self_
+
+name: plasticine
+ckpt: null

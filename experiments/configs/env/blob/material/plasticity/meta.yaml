@@ -1,0 +1,8 @@
+cls: ???
+layer_widths: [64, 64]
+norm: null
+alpha: 1e-3
+nonlinearity: gelu
+no_bias: True
+normalize_input: True
+requires_grad: False

@@ -1,0 +1,4 @@
+defaults:
+  - blob: large_dragon
+  - _self_
+

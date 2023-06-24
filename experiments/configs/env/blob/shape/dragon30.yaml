@@ -1,0 +1,7 @@
+type: mesh
+name: dragon30
+center: [0.5, 0.5, 0.5]
+size: [0.1, 0.1, 0.1]
+resolution: 75
+mode: sampling
+sort: null

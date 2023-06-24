@@ -1,0 +1,22 @@
+defaults:
+  - jelly
+  - override shape: bob
+  - override vel: still
+  - _self_
+
+name: contact_duck
+rho: 1e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 1
+
+shape:
+  center: [0.75, 0.4, 0.25]
+  size: [0.4, 0.4, 0.4]
+  mode: sampling
+
+vel:
+  lin_vel: [-2.0, 0.0, 2.0]
+
+bsdf_pcd:
+  reflectance:
+    value: [0.9568627450980393, 0.7058823529411765, 0.0]

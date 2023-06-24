@@ -1,0 +1,11 @@
+defaults:
+  - bsdf_pcd: sand
+  - material: sand
+  - shape: cube
+  - vel: preset
+  - _self_
+
+name: sand
+rho: 1e3
+span: [0, "${sim.num_steps}"]
+clip_bound: 0.5

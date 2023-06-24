@@ -1,0 +1,17 @@
+name: nclaw
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - torchvision
+  - pytorch
+  - pytorch-cuda=11.7
+  - torchaudio
+  - scipy
+  - pyvista
+  - hydra-core
+  - trimesh
+  - einops
+  - tqdm
+  - psutil
+  - tensorboard

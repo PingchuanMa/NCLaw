@@ -1,0 +1,7 @@
+defaults:
+  - blob@icecream: melting_icecream
+  - blob@chocolate: melting_chocolate
+  - _self_
+
+start: 500
+end: 1500

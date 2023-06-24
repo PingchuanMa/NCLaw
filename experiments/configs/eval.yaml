@@ -1,0 +1,10 @@
+defaults:
+  - default
+  - override env: jelly
+  - override render: debug
+  - override sim: low
+  - override train: default
+  - _self_
+
+gt_name: null
+dataset: false

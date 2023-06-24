@@ -1,0 +1,8 @@
+defaults:
+  - volume
+  - _self_
+
+E: 1e5
+nu: 0.3
+mode: taichi
+random: False

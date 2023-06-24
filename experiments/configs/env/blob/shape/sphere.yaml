@@ -1,0 +1,7 @@
+type: mesh
+name: sphere
+center: [0.5, 0.5, 0.5]
+size: [0.15, 0.15, 0.15]
+resolution: 25
+mode: sampling
+sort: null

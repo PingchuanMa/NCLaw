@@ -1,0 +1,4 @@
+defaults:
+  - blob: blub
+  - _self_
+

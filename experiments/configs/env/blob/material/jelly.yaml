@@ -1,0 +1,7 @@
+defaults:
+  - elasticity: corotated_jelly
+  - plasticity: identity
+  - _self_
+
+name: jelly
+ckpt: null

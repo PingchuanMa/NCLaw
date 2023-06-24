@@ -1,0 +1,10 @@
+defaults:
+  - teacher: cosine
+  - _self_
+
+num_epochs: 30
+batch_size: 1000
+elasticity_lr: 1e-1
+plasticity_lr: 1e-1
+elasticity_wd: 0.0
+plasticity_wd: 0.0

@@ -1,0 +1,6 @@
+defaults:
+  - sigma
+  - _self_
+
+E: 1e6
+nu: 0.25

@@ -1,0 +1,5 @@
+cls: StVKElasticity
+E: 1e5
+nu: 0.2
+requires_grad: False
+random: False

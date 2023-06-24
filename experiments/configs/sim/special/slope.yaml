@@ -1,0 +1,6 @@
+# @package _global_
+
+sim:
+  gravity: [0.0, -1, 0.866]
+  num_grids: 128
+  num_steps: 1500

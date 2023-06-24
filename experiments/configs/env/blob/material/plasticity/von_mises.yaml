@@ -1,0 +1,6 @@
+cls: VonMisesPlasticity
+E: ???
+nu: ???
+sigma_y: ???
+requires_grad: False
+random: False

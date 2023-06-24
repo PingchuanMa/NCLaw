@@ -1,0 +1,3 @@
+strategy: linear
+start_lambda: 10
+end_lambda: 10

@@ -1,0 +1,3 @@
+strategy: random
+start_lambda: 0.02
+end_lambda: 0.002

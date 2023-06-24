@@ -1,0 +1,12 @@
+defaults:
+  - meta
+  - _self_
+
+cls: SplineMetaElasticity
+
+num_side_points: 10
+xk_max: 10
+yk_max: 1e4
+
+E: 1e5
+nu: 0.2

@@ -1,0 +1,7 @@
+type: cylinder
+name: dataset
+center: [0.5, 0.5, 0.5]
+size: [0.02, 0.7, 0.02]
+resolution: 512
+mode: sampling
+sort: null

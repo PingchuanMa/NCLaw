@@ -1,0 +1,7 @@
+defaults:
+  - elasticity: sigma_sand
+  - plasticity: drucker_prager_sand
+  - _self_
+
+name: sand
+ckpt: null
