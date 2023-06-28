@@ -422,6 +422,8 @@ class MPMModel(Model):
         if pz > constant.num_grids - constant.bound and v[2] > 0.0:
             v = wp.vec3(0.0)
 
+        grid.v[px, py, pz] = v
+
 
     @staticmethod
     @wp.kernel
